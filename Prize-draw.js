@@ -31,3 +31,6 @@ Notes:
   If st is empty return "No participants".
   If n is greater than the number of participants then return "Not enough participants".
 */
+
+
+// Solution
