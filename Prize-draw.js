@@ -47,3 +47,5 @@ function rank(st, we, n) {
     .sort((a, b) => b.s - a.s)
     [n - 1].name
 }
+
+// or
